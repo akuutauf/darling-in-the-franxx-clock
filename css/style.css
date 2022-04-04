@@ -1,0 +1,43 @@
+/* Color : https://colorhunt.co/palette/ff5959676fa3cddeffeef2ff */
+body {
+  overflow-x: hidden;
+  font-family: "Teko", sans-serif;
+  font-weight: 300;
+  margin: 0;
+  width: 100%;
+}
+
+.center {
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.font-red {
+  color: #ff5959;
+}
+
+.font-white {
+  color: #eef2ff;
+}
+
+.bg-card {
+  background-color: #ff5959;
+}
+
+.bg-card-two {
+  background-color: #3db2ff;
+}
+
+.desc-text {
+  font-size: larger;
+}
+
+#clock {
+  font-size: 3rem;
+}
+
+#date {
+  font-size: 2.5rem;
+}
